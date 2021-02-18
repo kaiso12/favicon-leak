@@ -8,9 +8,6 @@ export default {
   "www.apple.com": [
     "https://www.apple.com/favicon.ico"
   ],
-  "auto.ru": [
-    "https://yastatic.net/iconostasis/_/yrnXc0TafkMtLn2W7JSKUwrDYx8.ico"
-  ],
   "www.aviasales.ru": [
     "https://www.aviasales.ru/favicon.ico"
   ],

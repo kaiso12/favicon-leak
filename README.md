@@ -1,4 +1,4 @@
-#### Your browser history leaks via favicon. Check now!
+### Your browser history leaks via favicon. Check now!
 
 Recently read this research [pdf](http://web.archive.org/web/20210210122008/https://www.cs.uic.edu/~polakis/papers/solomos-ndss21.pdf), after that I decided to look for more efficient ways to use F-Cache, than doing dozen of redirects.
 
@@ -10,11 +10,11 @@ You can check the leak here: https://favicon-leak.site/
 
 **Important! This leak works in incognito too (this is how F-Cache works)!**
 
-#### How it works
+### How it works
 
 // TODO
 
-#### Build Setup
+### Build Setup
 
 ``` bash
 # install dependencies
