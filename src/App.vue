@@ -6,9 +6,15 @@
         <img style="vertical-align: top;width: 16px;height: 16px" src="https://github.githubassets.com/favicons/favicon.svg?tab">
         <a href="https://github.com/1chtulhu/favicon-leak" target="_blank">Github</a>
       </div>
+      <div style="" class="tab bg">
+        <img style="vertical-align: top;width: 16px;height: 16px" src="./assets/rus.png">
+        <a href="https://habr.com/ru/post/543282/" target="_blank">Как это работает?</a>
+      </div>
     </div>
     <div id="app">
-
+      <div style="padding: 10px;margin: 10px 0;border: 1px solid red; background: #fff2f4; color: red">
+        <img src="./assets/chrome.png" style="width: 24px;vertical-align: top"> Warning: this is not a cross-browser solution. At the moment, I've only tested it on desktop chrome!
+      </div>
       <div style="font-size: 17px;border-bottom: 1px solid #eee;font-weight: bold;margin-bottom: 10px">
         Lets see, which favicons exists in your F-Cache
         <div style="font-size: 12px;color: gray">You can create new browser profile to start from empty F-Cache</div>

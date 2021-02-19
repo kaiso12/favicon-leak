@@ -1,5 +1,7 @@
 ### Your browser history leaks via favicon. Check now!
 
+> This repo is for demonstration purposes only
+
 Recently read this research [pdf](http://web.archive.org/web/20210210122008/https://www.cs.uic.edu/~polakis/papers/solomos-ndss21.pdf), after that I decided to look for more efficient ways to use F-Cache, than doing dozen of redirects.
 
 I started looking for a way to test F-Cache via javascript. During the experiments, I found several ways to do this, but I will describe the most interesting one(in my opinion).
@@ -8,7 +10,9 @@ I started looking for a way to test F-Cache via javascript. During the experimen
 
 You can check the leak here: https://favicon-leak.site/
 
-**Important! This leak works in incognito too (this is how F-Cache works)!**
+**Important! This leak also works in incognito mode!**
+
+### <img width=20px src="https://favicon.b-cdn.net/rus.png"> [Как это работает]()
 
 ### How it works
 
