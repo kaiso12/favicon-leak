@@ -12,7 +12,7 @@ You can check the leak here: https://favicon-leak.site/
 
 **Important! This leak also works in incognito mode!**
 
-### <img width=20px src="https://favicon.b-cdn.net/rus.png"> [Как это работает]()
+### <img width=20px src="https://favicon.b-cdn.net/rus.png"> [Как это работает](https://habr.com/ru/post/543282/)
 
 ### How it works
 
