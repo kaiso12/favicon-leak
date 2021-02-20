@@ -10,6 +10,10 @@
         <img style="vertical-align: top;width: 16px;height: 16px" src="./assets/rus.png">
         <a href="https://habr.com/ru/post/543282/" target="_blank">Как это работает?</a>
       </div>
+      <div style="" class="tab bg">
+        <img style="vertical-align: top;width: 16px;height: 16px" src="./assets/eng.png">
+        <a href="https://webw.medium.com/your-chrome-history-leaks-via-favicon-check-now-764b4d4eb33b" target="_blank">How it works?</a>
+      </div>
     </div>
     <div id="app">
       <div style="padding: 10px;margin: 10px 0;border: 1px solid red; background: #fff2f4; color: red">

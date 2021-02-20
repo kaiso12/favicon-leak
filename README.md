@@ -14,9 +14,7 @@ You can check the leak here: https://favicon-leak.site/
 
 ### <img width=20px src="https://favicon.b-cdn.net/rus.png"> [Как это работает](https://habr.com/ru/post/543282/)
 
-### How it works
-
-// TODO
+### <img width=20px src="https://favicon.b-cdn.net/eng.png"> [How it works](https://webw.medium.com/your-chrome-history-leaks-via-favicon-check-now-764b4d4eb33b)
 
 ### Build Setup
 
